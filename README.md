@@ -23,7 +23,7 @@ Step-6:Display the results.
 Step-7:End
 
 ## Program:
-```
+```py
 /*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
 Developed by: LAVANYA S
@@ -69,11 +69,17 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
+```
 y_pred
+```
 ![image](https://github.com/user-attachments/assets/2339d233-7cf8-4869-ac33-205f88a80b56)
+```
 print(classification_report1)
+```
 ![image](https://github.com/user-attachments/assets/b5c31e12-2866-41e3-b28e-73546ffe454d)
+```
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
+```
 ![image](https://github.com/user-attachments/assets/0f0f7e14-ae6a-443f-b6fa-00b9d7c3f3a4)
 
 
